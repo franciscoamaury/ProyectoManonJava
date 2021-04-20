@@ -1,0 +1,14 @@
+{
+  "name": "actividad_vi_node",
+  "version": "1.0.0",
+  "description": "El server de VI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
